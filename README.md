@@ -26,4 +26,9 @@
 4. Integració FB: No
 5. Integració Whatsapp: No
 -----
-
+1. URL pública: http://labs.iam.cat/~a14alerevagu/landingdaw/landingdaw/
+2. URL GIT: https://github.com/aleixr20/landingdaw.git
+3. Noms dels integrants: Javi Martín, Mario González, Aleix Revesado
+4. Integració FB: Si (falta imatge)
+5. Integració Whatsapp: Si (falta imatge)
+-----

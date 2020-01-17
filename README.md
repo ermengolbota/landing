@@ -8,6 +8,12 @@
 1. Integració FB: Sí / No
 1. Integració Whatsapp: Sí / No
 -----
+2. URL pública: http://a18josibacuc.tk/
+2. URL GIT: github.com/FerBlaSal/landing
+2. Noms dels integrants: Ferran, Jose, Adam
+2. Integració FB: No
+2. Integració Whatsapp: No
+-----
 2. URL pública: http://labs.iam.cat/~a18oscortsol/ejm09/m09/
 2. URL GIT: https://bitbucket.org/a18oscortsol/m09/src/master/
 2. Noms dels integrants: Oscar, Sonia, Manel
@@ -20,3 +26,4 @@
 4. Integració FB: No
 5. Integració Whatsapp: No
 -----
+

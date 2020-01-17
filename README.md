@@ -2,9 +2,9 @@
 ## Format
 
 -----
-1. URL pública: a18josibacuc.tk
-1. URL GIT: https://github.com/FerBlaSal/landing/
-1. Noms dels integrants Adam Jalich, Jose Ibarra, Ferran Blasco
-1. Integració FB:No
-1. Integració Whatsapp:  No
+1. URL pública:
+1. URL GIT:
+1. Noms dels integrants
+1. Integració FB: Sí / No
+1. Integració Whatsapp: Sí / No
 -----
